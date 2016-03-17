@@ -2,5 +2,5 @@
 Android Popular movies app for udacity
 
 
-The Api key for the movie db api should be entred in the Strimgs.xml file
+The Api key for the movie db api should be entred in the strings.xml file
 the resource name is api_key
